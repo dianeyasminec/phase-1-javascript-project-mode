@@ -105,3 +105,11 @@ also recommend the following to help stay organized and on track:
 
 Check in with your instructors to make sure your scope and timeline are
 manageable.
+DESCRIPTION
+
+
+URL OF THE REPOSITORY
+
+
+
+HOW TO RUN IT 
