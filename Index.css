@@ -1,0 +1,19 @@
+.p1,.p{
+    font-size: 50px;
+    text-align: center;
+    color: fuchsia;
+}
+body{
+    background-color:pink;
+}
+.lists{
+    font-size: 25px;
+}
+h1{
+    position: absolute;
+  top: 60px;
+  right: 400px;
+  color: greenyellow;
+  font-family: italic;
+  font-size: 60px;
+}

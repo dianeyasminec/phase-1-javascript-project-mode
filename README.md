@@ -106,6 +106,7 @@ also recommend the following to help stay organized and on track:
 Check in with your instructors to make sure your scope and timeline are
 manageable.
 DESCRIPTION
+Cocktails App that permit user to see instructions , images and ingredients of six differents drinks using a API. User will be able to to like and comment different drinks on the page 
 
 
 URL OF THE REPOSITORY
